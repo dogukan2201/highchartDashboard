@@ -32,6 +32,7 @@ const config = {
             ["Beef Liver", 6421, 6.5],
             ["Lamb Liver", 2122, 6.5],
             ["Cod Liver Oil", 1350, 0.9],
+            ["Tuna", 214, 0.6],
             ["Mackerel", 388, 1],
           ],
         },
